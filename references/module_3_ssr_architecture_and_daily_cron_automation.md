@@ -1,4 +1,4 @@
-# Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D Automation
+# Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D (Unverified Candidate)
 
 *Source: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026). Single-source, directional, unverified benchmarks.*
 
@@ -15,9 +15,9 @@
 
 ---
 
-## 3.2 Permitted API/RSS Daily Cron Automation & Local-GPU Playwright 3D
+## 3.2 Permitted API/RSS Daily Cron Automation & Local-GPU Playwright 3D (Unverified Candidate)
 1. **Automated Daily Content Refresh via Official APIs / Public Feeds:**
    - Use lightweight Python updaters that inspect **official APIs or public RSS/Atom feeds where the source's terms allow**, respecting `robots.txt`, Terms of Service, rate limits, and attribution, to regenerate static/SSR microsite pages automatically (`SEO-TV.com` auto-sync pattern, directional single-source).
-2. **Overnight Headless Playwright Local-GPU Rendering:**
-   - For high-craft interactive visual directories (`150+`-page product/3D showcase sites, single-source), run a local Python + headless Playwright browser script overnight harnessing the workstation's **local GPU** to capture deterministic 3D/DOM renders directly to local storage (respecting intellectual-property and copyright rules; never rip copyrighted third-party brand assets).
+2. **Overnight Headless Playwright Local-GPU Rendering (unverified candidate route, not active; per `06_local_applications.md` it needs a dated verified entry before use):**
+   - For high-craft interactive visual directories (`150+`-page product/3D showcase sites, single-source), once verified, run a local Python + headless Playwright browser script overnight harnessing the workstation's **local GPU** to capture deterministic 3D/DOM renders directly to local storage (respecting intellectual-property and copyright rules; never rip copyrighted third-party brand assets).
    - For local audio/video asset generation on the same workstation, route media rendering to [`kirby-coded-motion-studio`](../../kirby-coded-motion-studio/SKILL.md) ([`06_local_applications.md`](../../kirby-coded-motion-studio/references/06_local_applications.md)).

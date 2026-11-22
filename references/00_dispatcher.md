@@ -5,7 +5,7 @@ This skill orchestrates the end-to-end creation and deployment of **server-side 
 ## 📚 Module Index
 - **Module 1: Aged Domain & Utility Tool Ideation (Cannibalization Splitting)** -> Read `./module_1_aged_domain_and_utility_tool_ideation.md`
 - **Module 2: `Claude Code` MCP Build Pipeline, `notes.md` Continuity & UI Craftsmanship** -> Read `./module_2_claude_code_mcp_build_pipeline.md`
-- **Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D Automation** -> Read `./module_3_ssr_architecture_and_daily_cron_automation.md`
+- **Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D (Unverified Candidate)** -> Read `./module_3_ssr_architecture_and_daily_cron_automation.md`
 - **Module 4: Organic Citation & Link-Magnet Flywheel (First-`2%` Token UX & GSC Isolation)** -> Read `./module_4_organic_citation_and_link_magnet_flywheel.md`
 
 ## When to Use

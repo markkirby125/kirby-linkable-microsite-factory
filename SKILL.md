@@ -1,8 +1,8 @@
 ---
 name: kirby-linkable-microsite-factory
-description: "Use when building SSR linkable microsites, interactive utilities, or aged-domain click magnets via local Claude Code, Playwright local-GPU 3D captures, Spaceship/Cloudflare MCPs, and licensed/press-kit brand-logo UI craft."
+description: "Use when building SSR linkable microsites, interactive utilities, or aged-domain click magnets via local Claude Code, Spaceship/Cloudflare MCPs, and licensed/press-kit brand-logo UI craft."
 category: technique
-triggers: [linkable-microsite, claude-code-microsite, viral-linkable-asset, aged-domain-utility, ssr-microsite, playwright-3d-capture, authentic-brand-craft, click-magnet-tool]
+triggers: [linkable-microsite, claude-code-microsite, viral-linkable-asset, aged-domain-utility, ssr-microsite, authentic-brand-craft, click-magnet-tool]
 risk: unverified
 author: paul-kirby
 tags: [kirby, ai-agent, workflow]

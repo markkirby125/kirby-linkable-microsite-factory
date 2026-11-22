@@ -10,7 +10,7 @@ Sources: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026) 
 
 ## 🪄 The Magic Prompt
 
-Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity) to install from the monorepo *(standalone repo URL `https://github.com/markkirby125/kirby-linkable-microsite-factory` will be activated once published)*:
+Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity) to install from the monorepo *(standalone repo URL `https://github.com/markkirby125/kirby-linkable-microsite-factory` is declared in `.gitmodules`)*:
 
 ```markdown
 @agent Install the kirby-linkable-microsite-factory skill from: https://github.com/markkirby125/kirby-skills (subdirectory `kirby-linkable-microsite-factory/`)
@@ -26,5 +26,5 @@ Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigrav
 | `references/00_dispatcher.md` | Master routing, MCP security gates, anti-PBN isolation |
 | `references/module_1_aged_domain_and_utility_tool_ideation.md` | `$4–$10` (single-source case) aged Wayback-vetted domains, exact-match free-tool ideation, cannibalization splitting |
 | `references/module_2_claude_code_mcp_build_pipeline.md` | Local `Claude Code` + `notes.md` → skill loop, `Chrome`/`Spaceship`/`Cloudflare` MCPs, 4-Layout Gate, licensed/press-kit brand-logo assets |
-| `references/module_3_ssr_architecture_and_daily_cron_automation.md` | SSR HTML crawlability, Python pre-upload QA, daily feed/API cron updaters, overnight Playwright local-GPU 3D |
+| `references/module_3_ssr_architecture_and_daily_cron_automation.md` | SSR HTML crawlability, Python pre-upload QA, daily feed/API cron updaters, Playwright local-GPU 3D (unverified candidate) |
 | `references/module_4_organic_citation_and_link_magnet_flywheel.md` | First-`2%` token centerpiece UX, editorial internal linking, isolated GSC portfolio hygiene |
