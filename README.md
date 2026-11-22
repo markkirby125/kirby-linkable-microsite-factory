@@ -4,7 +4,7 @@
 
 Generic "AI-looking" JS-rendered microsites risk being ignored by journalists (directional observation), delayed or incomplete crawling in retrieval bots/Screaming Frog, and missed LLM citations. By pairing local `Claude Code` (desktop/terminal) with persistent `notes.md` state continuity, aged domains purchased from a registrar and vetted in the Wayback Machine (or exact-match utility domains), SSR HTML rendering, automated feed/API updaters, and licensed/press-kit brand-logo assets, builders can target editorial citations without manual link-building spend (single-source case study, directional).
 
-**Directional Benchmarks (Single-Source, Unverified):** Mike Hawley reported building `114` websites across `56` launches (`SEO-TV.com` `21,180 → 213` keywords / `139` pages; `$4` domain `cheese.help` → `3,000–4,200` LLM citations & `11` MSN backlinks; `audiotext.com` `~50 → ~8,000` clicks/day via free utility centerpiece placement).
+**Directional Benchmarks (Single-Source, Unverified):** Mike Hawley reported building `114` websites across `56` launches (`SEO-TV.com` `21,180 → 213` keywords / `139` pages; `$4` domain `cheese.help` → `3,000–4,200` LLM citations & `11` MSN backlinks; `audiototext.com` `~50 → ~8,000` clicks/day via free utility centerpiece placement).
 
 Sources: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026) & Koray Tuğberk GÜBÜR (`Af9rvlVPQCQ`, Nov 11, 2026).
 

@@ -8,8 +8,8 @@
 1. **The Expired-Domain Clean-History Rebuild (`cheese.help` Model):**
    - Acquire cheap (`$4–$10`, single-source case) expired domains on clean, non-spam histories (verify full Wayback Machine history and backlink hygiene per `../../kirby-seo-deployment/SKILL.md` Module 7 §7.10 C before buying — reject prior pharma/casino/adult pivots).
    - Rebuild the asset as a structured, clean-DOM encyclopedia/directory (`cheese.help` rebuilt from an ugly archived site into a structured cheese encyclopedia earning `3,000–4,200` LLM citations and `11 MSN` links with `$0` link-building spend; `"wild cheese"` drove traffic across `25` pages — single-source, directional).
-2. **The Exact-Match Free-Utility Microsite (`audiotext.com` / `SEO-TV.com` Model):**
-   - Build single-purpose free utilities or niche directories on memorable domains (`audiotext.com` free audio/text tool growing `~50 → ~8,000` clicks/day; `SEO-TV.com` retro video-store directory built in `4–5 hours` indexing `~70 → 139` live pages with `25` pages driving traffic — single-source, directional).
+2. **The Exact-Match Free-Utility Microsite (`audiototext.com` / `SEO-TV.com` Model):**
+   - Build single-purpose free utilities or niche directories on memorable domains (`audiototext.com` free audio/text tool growing `~50 → ~8,000` clicks/day; `SEO-TV.com` retro video-store directory built in `4–5 hours` indexing `~70 → 139` live pages with `25` pages driving traffic — single-source, directional).
 
 ---
 
@@ -19,4 +19,4 @@
 2. **Split Distinct Verticals to Prevent Self-Cannibalization:**
    - Never collapse overlapping modifiers onto one ambiguous page template. Create distinct page types with clear intent jobs (e.g., splitting `"Local SEO"` services/directories from `"Learn Local SEO"` educational hubs).
 3. **Interactive Utility Selection:**
-   - Prioritize tools users bookmark and journalists cite: interactive maps (e.g., single-source GTA VI Leonida map case), directories with unique Easter eggs/randomizers (`SEO-TV.com` `"randomize me"` button + episode counter), or friction-free zero-signup converters (`audiotext.com`).
+   - Prioritize tools users bookmark and journalists cite: interactive maps (e.g., single-source GTA VI Leonida map case), directories with unique Easter eggs/randomizers (`SEO-TV.com` `"randomize me"` button + episode counter), or friction-free zero-signup converters (`audiototext.com`).

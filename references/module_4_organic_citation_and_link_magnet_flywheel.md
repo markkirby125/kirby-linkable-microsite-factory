@@ -5,8 +5,8 @@
 ---
 
 ## 4.1 First-`2%` Token Centerpiece Annotation & Minimal-Fluff Tool Front Ends
-*(Directional / single-source observation from `audiotext.com` & Content Warehouse API Leak commentary; live Google annotation weights are unobservable.)*
-1. **Place the Primary Tool in the First `2%` of Tokens:** On single-page utility microsites (`audiotext.com`: `~50 → ~8,000` clicks/day), place the giant primary interactive control (`upload button`, `calculator`, `tool canvas`) + clear friction-removal cue (`"no sign up"` / `"free tool"`) immediately above the fold in Viewport 1.
+*(Directional / single-source observation from `audiototext.com` & Content Warehouse API Leak commentary; live Google annotation weights are unobservable.)*
+1. **Place the Primary Tool in the First `2%` of Tokens:** On single-page utility microsites (`audiototext.com`: `~50 → ~8,000` clicks/day), place the giant primary interactive control (`upload button`, `calculator`, `tool canvas`) + clear friction-removal cue (`"no sign up"` / `"free tool"`) immediately above the fold in Viewport 1.
 2. **Prevent Token Dilution:** Strip unnecessary introductory essays above or around the utility; excessive narrative copy risks diluting entity/action focus across the document's opening tokens and triggers pogo-sticking (directional, single-source). Keep supporting instructions compact below the tool.
 
 ---

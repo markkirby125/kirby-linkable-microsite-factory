@@ -9,7 +9,7 @@ This skill orchestrates the end-to-end creation and deployment of **server-side 
 - **Module 4: Organic Citation & Link-Magnet Flywheel (First-`2%` Token UX & GSC Isolation)** -> Read `./module_4_organic_citation_and_link_magnet_flywheel.md`
 
 ## When to Use
-- You are selecting a `$4–$10` (single-source case) expired/aged domain purchased from a registrar with history vetted in the Wayback Machine (`cheese.help` model) or an exact-match utility domain (`audiotext.com` model) to build a standalone linkable resource or free tool (Module 1).
+- You are selecting a `$4–$10` (single-source case) expired/aged domain purchased from a registrar with history vetted in the Wayback Machine (`cheese.help` model) or an exact-match utility domain (`audiototext.com` model) to build a standalone linkable resource or free tool (Module 1).
 - You are building a fast microsite in local `Claude Code` desktop/terminal using `notes.md` continuity, `Chrome`/`Spaceship`/`Cloudflare` MCPs, and authentic non-boilerplate visual layouts (Module 2).
 - You need SSR HTML pages that remove reliance on deferred client-side rendering queues for `Googlebot`, `Screaming Frog`, `OAI-SearchBot`, and `PerplexityBot`, paired with daily cron scripts and local-GPU 3D product graphics (Module 3).
 - You aim to earn LLM citations and editorial links organically (directional, single-source case: `11` MSN backlinks) without buying links (Module 4).
@@ -23,6 +23,6 @@ This skill orchestrates the end-to-end creation and deployment of **server-side 
 - Satellite EMD PBN-risk rules, Wayback clean-history scrubbing, and FTC common-ownership rules -> route to [`kirby-seo-deployment`](../../kirby-seo-deployment/SKILL.md) Module 7 (§7.3, §7.10) and [`kirby-saas-syndicate`](../../kirby-saas-syndicate/SKILL.md).
 
 ## Mandatory Governance & Quality Rules
-- **Directional / Single-Source Tagging:** Case-study metrics (`SEO-TV.com` `21,180 → 213` keywords / `139` pages, `cheese.help` `$4` domain / `3,000–4,200` LLM citations / `11` MSN links, `audiotext.com` `~50 → 8,000` clicks/day) are single-source directional observations, not guarantees.
+- **Directional / Single-Source Tagging:** Case-study metrics (`SEO-TV.com` `21,180 → 213` keywords / `139` pages, `cheese.help` `$4` domain / `3,000–4,200` LLM citations / `11` MSN links, `audiototext.com` `~50 → 8,000` clicks/day) are single-source directional observations, not guarantees.
 - **UI Quality, Never Detection Evasion:** Typography, SVG, and anti-boilerplate layout rules (avoid em-dash overuse in UI copy, no uniform pill grids, authentic photography/licensed logos) are strictly enforced for **editorial craftsmanship and brand credibility**, never as AI detection evasion or de-fingerprinting.
 - **Zero PBN Cross-Linking:** Never turn microsite portfolios into hidden link schemes; enforce disclosure and isolated GSC properties under real, verified owners ([`kirby-seo-telemetry`](../../kirby-seo-telemetry/SKILL.md) Module 9 §9.8 item 5 & [`kirby-seo-deployment`](../../kirby-seo-deployment/SKILL.md) Module 7 §7.3).
