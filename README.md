@@ -10,7 +10,7 @@ Sources: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026) 
 
 ## 🪄 The Magic Prompt
 
-Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity) to install from the monorepo *(standalone repo URL `https://github.com/markkirby125/kirby-linkable-microsite-factory` is declared in `.gitmodules`)*:
+Copy and paste this directly to your AI (Cursor, Windsurf, Claude Code, Antigravity) to install from the monorepo *(standalone repo URL `https://github.com/markkirby125/kirby-linkable-microsite-factory` is declared in the monorepo root `.gitmodules` (standalone activation not verified))*:
 
 ```markdown
 @agent Install the kirby-linkable-microsite-factory skill from: https://github.com/markkirby125/kirby-skills (subdirectory `kirby-linkable-microsite-factory/`)
