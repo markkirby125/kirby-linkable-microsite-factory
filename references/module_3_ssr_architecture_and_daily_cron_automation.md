@@ -1,6 +1,6 @@
 # Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D (3D route: unverified candidate)
 
-*Source: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026). Single-source, directional, unverified benchmarks.*
+*Source: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 10, 2026). Single-source, directional, unverified benchmarks.*
 
 ---
 

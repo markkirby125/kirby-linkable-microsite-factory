@@ -1,6 +1,6 @@
 # Module 4: Organic Citation & Link-Magnet Flywheel (First-`2%` Token UX & GSC Isolation)
 
-*Sources: Koray Tuğberk GÜBÜR (`Af9rvlVPQCQ`, Nov 11, 2026) & Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026).*
+*Sources: Koray Tuğberk GÜBÜR (`Af9rvlVPQCQ`, Oct 10, 2026) & Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 10, 2026).*
 
 ---
 

@@ -1,15 +1,15 @@
 # Linkable Microsite Factory — Dispatcher
 
-This skill orchestrates the end-to-end creation and deployment of **server-side rendered (SSR) linkable-asset microsites, directories, and single-page free utility tools** using local `Claude Code`, expired/aged domains purchased from a registrar with history vetted in the Wayback Machine (or exact-match utility domains), automated Python QA, and authentic visual craftsmanship.
+This skill orchestrates the end-to-end creation and deployment of **server-side rendered (SSR) linkable-asset microsites, directories, and single-page free utility tools** using local `Claude Code`, new `$4–$10` exact-match/niche domains or aged Wayback-vetted domains, automated Python QA, and authentic visual craftsmanship.
 
 ## 📚 Module Index
-- **Module 1: Aged Domain & Utility Tool Ideation (Cannibalization Splitting)** -> Read `./module_1_aged_domain_and_utility_tool_ideation.md`
+- **Module 1: Clean-History & Utility Tool Ideation (Cannibalization Splitting)** -> Read `./module_1_aged_domain_and_utility_tool_ideation.md`
 - **Module 2: `Claude Code` MCP Build Pipeline, `notes.md` Continuity & UI Craftsmanship** -> Read `./module_2_claude_code_mcp_build_pipeline.md`
 - **Module 3: SSR HTML Architecture, Python QA & Daily Cron / Local-GPU 3D (3D route: unverified candidate)** -> Read `./module_3_ssr_architecture_and_daily_cron_automation.md`
 - **Module 4: Organic Citation & Link-Magnet Flywheel (First-`2%` Token UX & GSC Isolation)** -> Read `./module_4_organic_citation_and_link_magnet_flywheel.md`
 
 ## When to Use
-- You are selecting a `$4–$10` (single-source case) expired/aged domain purchased from a registrar with history vetted in the Wayback Machine (`cheese.help` model) or an exact-match utility domain (`audiototext.com` model) to build a standalone linkable resource or free tool (Module 1).
+- You are selecting either (a) a new `$4–$10` exact-match/niche registration or Wayback-vetted domain (`cheese.help` new `$4` sale model) or (b) a single-purpose free-utility domain (`audiototext.com` model) to build a standalone linkable resource or tool (Module 1).
 - You are building a fast microsite in local `Claude Code` desktop/terminal using `notes.md` continuity, `Chrome`/`Spaceship`/`Cloudflare` MCPs, and authentic non-boilerplate visual layouts (Module 2).
 - You need SSR HTML pages that remove reliance on deferred client-side rendering queues for `Googlebot`, `Screaming Frog`, `OAI-SearchBot`, and `PerplexityBot`, paired with daily cron scripts (Module 3); local-GPU 3D product graphics only after the Module 3 section 3.2 verification gate.
 - You aim to earn LLM citations and editorial links organically (directional, single-source case: `11` MSN backlinks) without buying links (Module 4).

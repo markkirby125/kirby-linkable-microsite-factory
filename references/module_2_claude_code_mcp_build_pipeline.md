@@ -1,6 +1,6 @@
 # Module 2: `Claude Code` MCP Build Pipeline, `notes.md` Continuity & UI Craftsmanship
 
-*Source: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 12, 2026). Single-source, directional, unverified benchmarks.*
+*Source: Edward Sturm Ep. 1,224 feat. Mike Hawley (`ULvVvU0fWj8`, Nov 10, 2026). Single-source, directional, unverified benchmarks.*
 
 ---
 
@@ -10,7 +10,7 @@
    - **`Spaceship` MCP (or equivalent registrar/DNS/hosting MCP, if available):** Domain/hosting/file deployment management (verify connector availability & pin exact version/hash via [`kirby-agent-security`](../../kirby-agent-security/SKILL.md)).
    - **`Cloudflare` MCP:** DNS, caching, and staging/edge security checks.
    - **Mandatory Pre-Install Security Gate:** Verify all three connectors via [`kirby-agent-security`](../../kirby-agent-security/SKILL.md) ([`00_dispatcher.md`](../../kirby-agent-security/references/00_dispatcher.md) §5 and [`module_2_autonomous_deployment_mcp_verification.md`](../../kirby-agent-security/references/module_2_autonomous_deployment_mcp_verification.md)) before enabling write tools.
-2. **Permission Escalation Discipline (`Ask` → `Auto`):** Start every new project in `"Ask"` permission mode so file mutations, DNS updates, and deployment commands require explicit human review; switch to `"Auto"` only after staging behavior and local QA scripts are proven. Never execute unattended production DNS changes.
+2. **Permission Escalation Discipline (`Ask` → `Auto`):** Start every new project in `"Ask"` permission mode so file mutations, DNS updates, local tool/software downloads (preventing unapproved headless-Playwright/binary installs as warned in `ULvVvU0fWj8`), and deployment commands require explicit human review; switch to `"Auto"` only after staging behavior and local QA scripts are proven. Never execute unattended production DNS changes.
 
 ---
 
@@ -24,6 +24,6 @@
 *(Framed strictly for **UI quality, typographic clarity, and brand authenticity**, never for detection evasion.)*
 1. **The 4-Layout Pre-Build Requirement:** Before writing final build code, instruct the agent to generate **4 distinct homepage design prototypes** in different layouts and palettes; review visually and discard weak outputs bluntly. Feed reference screenshots/URLs for reverse-engineering layout proportions rather than relying on generic prompts.
 2. **Hawley Craftsmanship Checklist (Ban Generic Boilerplate Visuals):**
-   - **Zero Generic Slop Artifacts:** Reject em-dash (`—`) overuse in UI copy, uniform rounded card/pill stacks, generic AI placeholder slogans, and synthetic AI portraits/avatars.
-   - **Authentic Media & Licensed/Press-Kit Brand Marks:** Use real operational photography, grotesque/bold display typography, custom favicons/OpenGraph assets, and vector/SVG marks restricted strictly to **owned, client-licensed, or official press-kit brand marks used nominatively** with a recorded license/source per logo (never copy third-party brand assets without permission; zero unverified stock placeholders).
+   - **Zero Generic Slop Artifacts:** Reject em-dash (`—`) overuse in UI copy, eyebrows, uniform rounded card/pill stacks, generic AI placeholder slogans (`"It's not X, it's Y"`), default `Inter` / `Geist` webfont monotony, and synthetic AI portraits/avatars (`ULvVvU0fWj8`).
+   - **Authentic Media, Unique Per-Page Metadata & Licensed/Press-Kit Brand Marks:** Use real operational photography, grotesque/bold display typography, unique custom favicons, per-page OpenGraph (`og:image`, `og:title`) and Twitter share cards (`ULvVvU0fWj8`), and vector/SVG marks restricted strictly to **owned, client-licensed, or official press-kit brand marks used nominatively** with a recorded license/source per logo (never copy third-party brand assets without permission; zero unverified stock placeholders).
    - **Multi-Model Asset Generation & CSS Hygiene:** Pair `GitHub` skill modules with verified visual design tokens (editorial craft polish: grotesque/bold display type, intentional asymmetry, explicit spacing scale, zero pill-grid slop, [`kirby-accessible-contrast`](../../kirby-accessible-contrast/SKILL.md) WCAG 2.1 AA contrast checks).
